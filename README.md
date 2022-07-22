@@ -32,4 +32,6 @@ Weather Vacation Map
   * Create a travel itinerary that shows the route between four cities based on client's possible travel destinations usint the Google Directions API
   * Create a marker map with pop-up markers for each city on itinerary
 
-Weather Travel Map 
+Weather Travel Map Itinerary
+
+Weather Travel Map with Markers
