@@ -28,7 +28,8 @@ The task was to collect and analyze weather data across cities worldwide. I used
 Weather Vacation Map
 
 
-![WeatherPy_vacation_map](https://user-images.githubusercontent.com/106033535/180612637-6068858f-073a-4da7-a5a0-64806328bab8.png)
+![Capture](https://user-images.githubusercontent.com/106033535/180612701-716d07d0-5242-4676-8216-89d64f02c946.PNG)
+
 
 
 * Vacation_Itinerary Folder: 
