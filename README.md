@@ -28,8 +28,7 @@ The task was to collect and analyze weather data across cities worldwide. I used
 Weather Vacation Map
 
 
-![Capture](https://user-images.githubusercontent.com/106033535/180612701-716d07d0-5242-4676-8216-89d64f02c946.PNG)
-
+![Screen Shot 2022-07-22 at 5 41 57 PM](https://user-images.githubusercontent.com/106033535/180612741-f77fb089-d03f-4e85-a57e-b124e18b525f.png)
 
 
 * Vacation_Itinerary Folder: 
