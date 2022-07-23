@@ -28,10 +28,21 @@ The task was to collect and analyze weather data across cities worldwide. I used
 Weather Vacation Map
 
 
+![WeatherPy_vacation_map](https://user-images.githubusercontent.com/106033535/180612637-6068858f-073a-4da7-a5a0-64806328bab8.png)
+
+
 * Vacation_Itinerary Folder: 
   * Create a travel itinerary that shows the route between four cities based on client's possible travel destinations usint the Google Directions API
   * Create a marker map with pop-up markers for each city on itinerary
 
 Weather Travel Map Itinerary
 
+
+![WeatherPy_travel_map](https://user-images.githubusercontent.com/106033535/180612630-727732de-37c1-49e6-ac19-f016afb5bd88.png)
+
+
 Weather Travel Map with Markers
+
+
+![WeatherPy_travel_map_markers](https://user-images.githubusercontent.com/106033535/180612625-330940a6-4b57-4151-ab25-f6429adf0ce4.png)
+
